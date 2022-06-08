@@ -12,6 +12,8 @@
  # seller:
  Create, Read, Update, Delete product to buy.
  Create, Read, Update, Delete product to rent.
+ Determine the days available for rent
+ Select the city in which the product is located
   
  
 
@@ -19,6 +21,11 @@
  # customer
   Create , Delete product to buy
   Create , Delete product to rent
+  read information ,price about the product
+  Select a day for the product to rent
+  select city 
+  search about product
+    
  
  
  
